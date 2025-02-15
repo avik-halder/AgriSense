@@ -1,0 +1,19 @@
+/* .projectContainer{
+    background-color: rgb(196, 133, 255);
+} */
+.headline{
+    /* background-color: rgb(250, 132, 132); */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 40%;
+    padding-right: 5%;
+}
+
+table{
+    margin: auto;
+    margin-top: 20px;
+    width: 80%;
+    text-align: center;
+    
+}

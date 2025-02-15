@@ -1,0 +1,6 @@
+fastapi[standard]
+sqlmodel
+passlib[bcrypt]
+pyjwt
+pyotp
+nanoid

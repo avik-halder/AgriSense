@@ -1,0 +1,60 @@
+.tableGraph {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+}
+
+.sensorContainer {
+    flex: 1 1 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.sensorContent {
+    display: flex;
+    gap: 180px;
+}
+
+.tableContainer,
+.graphContainer {
+    flex: 1 1 calc(50% - 8px);
+}
+
+.tableContainer .dataTable,
+.graphContainer .dataGraph {
+    width: 100%;
+    height: 100%;
+}
+
+
+.predictContainer {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .predictButton {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .predictButton:hover {
+    background-color: #218838;
+  }
+  
+  .cropRecommendation {
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }
+  

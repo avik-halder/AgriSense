@@ -1,0 +1,35 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    background-color: rgb(249, 237, 249);
+    font-family: 'Inter', sans-serif;
+
+}
+.app-container{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+}
+.active li{
+    color: rgb(191, 0, 255);
+    font-weight: bold;
+    
+
+}
+
+.active button{
+    background-color: rgb(28, 244, 176);
+    border:1px solid rgb(255, 255, 255);
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+
+.container{
+    margin-top: 10%;
+}
