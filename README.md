@@ -1,7 +1,5 @@
 # AgriSense 🌾🚀
 
-AgriSense is an **IoT-based smart agriculture system** that helps farmers monitor and optimize farming conditions using real-time sensor data and machine learning. It provides insights into **soil moisture, temperature, humidity, and crop health**, enabling efficient decision-making to enhance productivity.
-
 AgriSense is an **IoT-based smart agriculture system** that collects real-time environmental data and helps farmers make informed decisions. It provides insights into soil conditions and **predicts the best crop** to grow based on various environmental factors.
 
 ## Features 🔥
